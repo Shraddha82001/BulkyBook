@@ -1,0 +1,33 @@
+E:\.Net core study\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+E:\.Net core study\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+E:\.Net core study\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+E:\.Net core study\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net core study\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+E:\.Net core study\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+E:\.Net core study\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+E:\.Net core study\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+E:\.Net core study\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+E:\.Net core study\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+E:\.Net core study\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+D:\Nikhil_Project\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+D:\Nikhil_Project\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+D:\Nikhil_Project\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+D:\Nikhil_Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikhil_Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+D:\Nikhil_Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+D:\Nikhil_Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+D:\Nikhil_Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+D:\Nikhil_Project\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+D:\Nikhil_Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+D:\Nikhil_Project\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+D:\Shraddha Project\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+D:\Shraddha Project\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+D:\Shraddha Project\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+D:\Shraddha Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shraddha Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+D:\Shraddha Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+D:\Shraddha Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+D:\Shraddha Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+D:\Shraddha Project\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+D:\Shraddha Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+D:\Shraddha Project\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
