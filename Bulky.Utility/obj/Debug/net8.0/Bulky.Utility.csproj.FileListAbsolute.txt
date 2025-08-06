@@ -1,0 +1,36 @@
+E:\.Net core study\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+E:\.Net core study\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+E:\.Net core study\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+E:\.Net core study\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+E:\.Net core study\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net core study\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+E:\.Net core study\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+E:\.Net core study\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+E:\.Net core study\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+E:\.Net core study\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+E:\.Net core study\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+E:\.Net core study\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+D:\Nikhil_Project\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+D:\Nikhil_Project\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+D:\Nikhil_Project\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+D:\Nikhil_Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+D:\Nikhil_Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikhil_Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\Nikhil_Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+D:\Nikhil_Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\Nikhil_Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+D:\Nikhil_Project\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+D:\Nikhil_Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+D:\Nikhil_Project\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+D:\Shraddha Project\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+D:\Shraddha Project\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+D:\Shraddha Project\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+D:\Shraddha Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+D:\Shraddha Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shraddha Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\Shraddha Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+D:\Shraddha Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\Shraddha Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+D:\Shraddha Project\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+D:\Shraddha Project\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+D:\Shraddha Project\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
